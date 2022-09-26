@@ -1,0 +1,12 @@
+body{
+    background-color: darkslategrey;
+}
+h1{
+    color:darkseagreen
+    text-align:center;
+    font: size 30px;
+}
+p{color: darkgreen;
+    text-align: center;
+    font: size 25px; 
+}
